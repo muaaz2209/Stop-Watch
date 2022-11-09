@@ -1,0 +1,25 @@
+#heading{
+    font-family: arial;
+}
+
+#hrs{
+    color : red;
+    font-size: 35px;
+}
+
+#mins{
+    color : blue;
+    font-size: 35px;
+    padding-left: 125px;
+}
+
+#secs{
+    color : green;
+    font-size: 35px;
+    padding-left: 250px;
+}
+
+span{
+    font-size:30px;
+    
+}    
